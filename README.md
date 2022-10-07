@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leith Mahfoudhi</h1>
-<h3 align="center">A Devops Enthusiast and a FUllstack developer</h3>
+<h3 align="center">A Devops Enthusiast and a Fullstack developer</h3>
 
 - 📫 How to reach me **mahfoudhi.leith@gmail.com**
 
